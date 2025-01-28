@@ -2,8 +2,8 @@
 
 // Get the canvas element
 var canvas = document.getElementById('canvas');
-canvas.width = 1280;
-canvas.height = 650;
+canvas.width = 854;
+canvas.height = 480;
 var ctx = canvas.getContext('2d');
 
 // Define game variables
